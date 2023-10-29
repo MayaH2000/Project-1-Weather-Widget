@@ -1,0 +1,28 @@
+
+*{
+    box-sizing: border-box;
+
+}
+
+body {
+
+    font-size: 14px;
+    font-family: 'Dela Gothic One', sans-serif;
+    background-image: url("macos-big-sur-colorful-waves-smooth-stock-apple-aesthetic-5k-1920x1080-1495.jpg"); 
+    height: 100%;
+     width: 100%;
+}
+h3{
+    font-weight: bold;
+}
+.forecast{
+
+    font-size: 0.9em;
+}
+span{
+    font-size: 1em;
+}
+li:hover{
+    background-color: lightslategray;
+    text-decoration: underline;
+}
